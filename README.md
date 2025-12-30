@@ -10,7 +10,7 @@ Full-Stack **.NET & React** Developer building **APIs, Dashboards, and SaaS** ap
 - ✅ Docker + Azure deployment basics
 
 ## 🚀 Featured Projects
-- **CRM SaaS – .NET 8 + React (Dockerized)**  
+- **CRM SaaS – .NET 8 Web API + React (Dockerized)**  
   Customers, Deals, Dashboard, JWT Auth, Swagger, SQL Server  
   👉 Repo: https://github.com/MNaveedRamzan/crm-saas-dotnet-react
 
