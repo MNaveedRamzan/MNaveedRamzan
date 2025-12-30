@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Naveed Ramzan 👋
 
-<!--
-**MNaveedRamzan/MNaveedRamzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack **.NET & React** Developer building **APIs, Dashboards, and SaaS** apps.
 
-Here are some ideas to get you started:
+## 💼 What I do
+- ✅ ASP.NET Core (.NET 8/9) Web APIs (Clean Architecture)
+- ✅ React + TypeScript + Tailwind (Dashboards, CRUD, Auth)
+- ✅ SQL Server / PostgreSQL (EF Core + Dapper)
+- ✅ JWT Authentication + RBAC
+- ✅ Docker + Azure deployment basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- **CRM SaaS – .NET 8 + React (Dockerized)**  
+  Customers, Deals, Dashboard, JWT Auth, Swagger, SQL Server  
+  👉 Repo: https://github.com/MNaveedRamzan/crm-saas-dotnet-react
+
+## 🧰 Tech Stack
+**Backend:** .NET, ASP.NET Core, EF Core, Dapper, SQL Server  
+**Frontend:** React, TypeScript, Vite, Tailwind  
+**DevOps:** Docker, GitHub Actions 
+**Cloud:** Azure 
+
+## 📫 Contact
+- GitHub: https://github.com/MNaveedRamzan
+- LinkedIn:https://www.linkedin.com/in/m-naveed-ramzan-1a0b2555
