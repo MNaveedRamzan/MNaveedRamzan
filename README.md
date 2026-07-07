@@ -22,4 +22,4 @@ Full-Stack **.NET & React** Developer building **APIs, Dashboards, and SaaS** ap
 
 ## 📫 Contact
 - GitHub: https://github.com/MNaveedRamzan
-- LinkedIn:https://www.linkedin.com/in/m-naveed-ramzan-1a0b2555
+- LinkedIn:https://www.linkedin.com/in/m-naveed-ramzan
